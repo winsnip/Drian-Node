@@ -29,6 +29,15 @@ and API
 ```bash
 bash <(curl -s https://file.winsnip.xyz/file/uploads/Dria.sh)
 ```
+1. PK input
+2. Input 3.23
+3. input Open AI API 
+4. Input JINA API 
+5. Input SERPER API 
+6. wait 10 seconds
+7. Ctrol + C
+
+done
 
 # Cek log
 ```bash
