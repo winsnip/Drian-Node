@@ -34,8 +34,9 @@ bash <(curl -s https://file.winsnip.xyz/file/uploads/Dria.sh)
 3. input Open AI API 
 4. Input JINA API 
 5. Input SERPER API 
-6. wait 10 seconds
-7. Ctrol + C
+6. wait 60 seconds
+7. Isi Form : Form (https://docs.google.com/forms/d/e/1FAIpQLSeK090ejc4dg5x1ztb_yAOxGz5o1V8JUqDa-o3AwV1Lq7NpMA/viewform)
+8. Done
 
 done
 
